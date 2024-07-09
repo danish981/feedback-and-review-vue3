@@ -1,29 +1,5 @@
-# feedback-and-review
+# Feedback and review system
 
-This template should help get you started developing with Vue 3 in Vite.
+Building feedback and review system by watching youtube letcure
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+[The youtube video URL](https://youtu.be/w0eeWWhK1fw)
